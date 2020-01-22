@@ -62,7 +62,12 @@
 
 | Problem                                                                                 | Difficulty | Tags           | Solution                                                                                   |
 | --------------------------------------------------------------------------------------- | ---------- | -------------- | ------------------------------------------------------------------------------------------ |
+| [Print Linked List](./problems/LinkedListProblems/PrintLinkedList.md) | Easy     | [Linked Lists] | [Link](./solutions/LinkedListSolutions/PrintLinkedListSolution.md) |
+| [Count Linked List](./problems/LinkedListProblems/CountLinkedList.md) | Easy     | [Linked Lists] | [Link](./solutions/LinkedListSolutions/CountLinkedListSolution.md) |
+| [Remove Node From Doubly-Linked List](./problems/LinkedListProblems/RemoveNodeFromDoublyLinkedList.md) | Medium     | [Linked Lists] | [Link](./solutions/LinkedListSolutions/RemoveNodeFromDoublyLinkedListSolution.md) |
 | [Swap Nodes](./problems/LinkedListProblems/SwapNodes.md) | Medium     | [Linked Lists] | [Link](./solutions/LinkedListSolutions/SwapNodesSolution.md) |
+| [Reverse Linked List](./problems/LinkedListProblems/ReverseLinkedList.md) | Hard     | [Linked Lists] | [Link](./solutions/LinkedListSolutions/ReverseLinkedListSolution.md) |
+| [Merge Sorted Linked Lists](./problems/LinkedListProblems/MergeSortedLinkedLists.md) | Hard     | [Linked Lists] | [Link](./solutions/LinkedListSolutions/MergeSortedLinkedListsSolution.md) |
 
 ## Stack Problems
 
