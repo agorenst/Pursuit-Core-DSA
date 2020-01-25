@@ -63,10 +63,15 @@
 | Problem                                                                                 | Difficulty | Tags           | Solution                                                                                   |
 | --------------------------------------------------------------------------------------- | ---------- | -------------- | ------------------------------------------------------------------------------------------ |
 | [Print Linked List](./problems/LinkedListProblems/PrintLinkedList.md) | Easy     | [Linked Lists] | [Link](./solutions/LinkedListSolutions/PrintLinkedListSolution.md) |
+| [Print Linked List Recursive](./problems/LinkedListProblems/PrintLinkedListRecursive.md) | Easy     | [Linked Lists] | [Link](./solutions/LinkedListSolutions/PrintLinkedListRecursiveSolution.md) |
 | [Count Linked List](./problems/LinkedListProblems/CountLinkedList.md) | Easy     | [Linked Lists] | [Link](./solutions/LinkedListSolutions/CountLinkedListSolution.md) |
-| [Remove Node From Doubly-Linked List](./problems/LinkedListProblems/RemoveNodeFromDoublyLinkedList.md) | Medium     | [Linked Lists] | [Link](./solutions/LinkedListSolutions/RemoveNodeFromDoublyLinkedListSolution.md) |
+| [Remove Duplicates](./problems/LinkedListProblems/removeDuplicates.md) | Easy     | [Linked Lists] | [Link](./solutions/LinkedListSolutions/removeDuplicateSolution.md) |
+| [Return Kth to Last](./problems/LinkedListProblems/returnKthToLast.md) | Easy     | [Linked Lists] | [Link](./solutions/LinkedListSolutions/returnKthToLastSolution.md) |
 | [Swap Nodes](./problems/LinkedListProblems/SwapNodes.md) | Medium     | [Linked Lists] | [Link](./solutions/LinkedListSolutions/SwapNodesSolution.md) |
-| [Reverse Linked List](./problems/LinkedListProblems/ReverseLinkedList.md) | Hard     | [Linked Lists] | [Link](./solutions/LinkedListSolutions/ReverseLinkedListSolution.md) |
+| [Middle Node](./problems/LinkedListProblems/middleNode.md) | Medium     | [Linked Lists] | [Link](./solutions/LinkedListSolutions/middleNodeSolution.md) |
+| [Sum Lists](./problems/LinkedListProblems/sumLists.md) | Medium     | [Linked Lists] | [Link](./solutions/LinkedListSolutions/sumListsSolution.md) |
+| [Reverse Linked List](./problems/LinkedListProblems/reverseLinkedList.md) | Hard     | [Linked Lists] | [Link](./solutions/LinkedListSolutions/reverseLinkedListSolution.md) |
+| [Linked List Cycle](./problems/LinkedListProblems/linkedListCycle.md) | Hard     | [Linked Lists] | [Link](./solutions/LinkedListSolutions/linkedListCycleSolution.md) |
 | [Merge Sorted Linked Lists](./problems/LinkedListProblems/MergeSortedLinkedLists.md) | Hard     | [Linked Lists] | [Link](./solutions/LinkedListSolutions/MergeSortedLinkedListsSolution.md) |
 
 ## Stack Problems

@@ -18,3 +18,4 @@ function returnKthToLast(head, k) {
   }
   return nBehindCurrent;
 }
+```
